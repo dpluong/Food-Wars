@@ -1,0 +1,6 @@
+NullReferenceException: Object reference not set to an instance of an object
+Item.MoveItems () (at Assets/Scripts/Item.cs:156)
+Item.CalculateAngle () (at Assets/Scripts/Item.cs:104)
+Item.OnMouseUp () (at Assets/Scripts/Item.cs:96)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at /Users/bokken/buildslave/unity/build/Modules/InputLegacy/MouseEvents.cs:161)
+-> Occur when moving an item
